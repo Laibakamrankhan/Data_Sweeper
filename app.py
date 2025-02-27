@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import os os.environ["STREAMLIT_SERVER_HEADLESS"] = "true"
+import os 
 from io import BytesIO
 
 # Set up the App
